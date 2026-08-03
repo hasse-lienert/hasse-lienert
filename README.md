@@ -11,6 +11,7 @@ Product manager based in Zürich with 8+ years building software products. When 
 | **Meal planner** | Save NYT Cooking recipes via a browser extension, log what you've cooked, filter by ingredients on hand, auto-build a shopping list. | _private beta_ | [`meal-planner`](https://github.com/hasse-lienert/meal-planner) |
 | **Comunio dashboard** | A dashboard for my fantasy-soccer league (Henok Tsehaye Cup) — weekly standings, with a scheduled keep-alive so the free-tier backend never sleeps. | live | [`henok-tsehaye-cup`](https://github.com/hasse-lienert/henok-tsehaye-cup) |
 | **CHExplained** | Three random facts pulled from Swiss government open data — a fresh trio every day, explaining Swiss civics and everyday life. | [chexplained.vercel.app](https://chexplained.vercel.app) | [`chexplained`](https://github.com/hasse-lienert/chexplained) |
+| **TGTG → Calendar sync** | Turns Too Good To Go order emails into Google Calendar pickup events (and removes them on cancellation) — a scheduled Claude Code cloud routine, all logic in one Markdown file. | runs twice a day | [`tgtg-calendar-sync`](https://github.com/hasse-lienert/tgtg-calendar-sync) |
 
 ## 🧰 Tools I reach for
 
